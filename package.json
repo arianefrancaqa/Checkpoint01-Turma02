@@ -1,0 +1,23 @@
+{
+  "name": "checkpoint01-turma02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "microondas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianefrancaqa/Checkpoint01-Turma02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianefrancaqa/Checkpoint01-Turma02/issues"
+  },
+  "homepage": "https://github.com/arianefrancaqa/Checkpoint01-Turma02#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
