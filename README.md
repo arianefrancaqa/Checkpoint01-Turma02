@@ -5,6 +5,10 @@
 
 ## Bem vindo Prof Lucas Feitosa ao Menu de Microondas :tea:! 
 
+### Como instalar:
+ - 📌 No terminal execute o comando ``npm init -y``;
+ - 📌 No terminal execute o comando ``npm i readline-sync``;
+
 ### Como acessar:
  - 📌 No terminal execute o comando ``node microondas.js``;
  - 📌 Escolha a opção de comida desejada;
